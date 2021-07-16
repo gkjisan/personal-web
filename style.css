@@ -2,5 +2,46 @@ body{
     font-family: 'Anton', sans-serif;
 }
 .name-highlight{
-    color: blueviolet;
+    color: chocolate;
+    font-size: 50px;
 }
+.tag{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 42%;
+    float: left;
+    margin-left: 100px;
+
+
+}
+#pic img{
+    width: 100%;
+}
+#link-line{
+    text-decoration:none ;
+    background-image: linear-gradient(lightsalmon,tomato);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px 5px 15px;
+}
+p{
+    font-size: 30px;
+}
+#p2 img{
+    width:100% ;
+}
+.btn{
+    background-image: linear-gradient(lightsalmon,tomato);
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+.last-area{
+    height: 900;
+}
+
+
